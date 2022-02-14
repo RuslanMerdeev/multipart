@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97671f0-c5c1-449a-8cff-44c88bce32a2" name="Changes" comment="Added the UserController and UserRepository">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="f97671f0-c5c1-449a-8cff-44c88bce32a2" name="Changes" comment="Added the gitignore">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dto/UploadUsersResponseDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644818286288</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the gitignore">
+      <created>1644822737956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644822737956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the UserController and UserRepository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the UserController and UserRepository" />
+    <MESSAGE value="Added the gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -122,8 +132,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/controller/UserController.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="3" />
+          <line>94</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
